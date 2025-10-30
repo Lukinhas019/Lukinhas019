@@ -42,3 +42,5 @@ Bem-vindo ao meu perfil GitHub! Estou dando meus primeiros passos como desenvolv
 ---
 
 > **“A jornada do conhecimento começa com o primeiro passo. Estou animado para trilhar esse caminho!”**
+>
+> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukinhas019)](https://github.com/anuraghazra/github-readme-stats)
