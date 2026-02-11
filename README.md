@@ -24,4 +24,4 @@ Atualmente estou em uma jornada intensa de transição de carreira, migrando do 
 * **[Jokenpô]:** O clássico jogo de pedra, papel e tesoura com uma interface moderna.
 
 📫 **Como me encontrar:**
-[LinkedIn](https://www.linkedin.com/in/lucas-assis-38a8b3285) | [Email](lukinhass.assis889@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/lucas-eduardo-de-assis/) | [Email](lukinhass.assis889@outlook.com)
