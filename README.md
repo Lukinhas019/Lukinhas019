@@ -1,46 +1,27 @@
-# 👋 Olá! Me chamo Lucas Eduardo de Assis
+# Olá, eu sou o Lucas Eduardo! 👋
 
-Bem-vindo ao meu perfil GitHub! Estou dando meus primeiros passos como desenvolvedor web e uso este espaço para compartilhar minha evolução e aprendizados.
+### 🚀 De Vendedor a Desenvolvedor Full Stack
+Atualmente estou em uma jornada intensa de transição de carreira, migrando do setor de vendas em materiais de construção para o universo da tecnologia. Sou aluno do **DevClub** e estou apaixonado por transformar lógica em interfaces reais.
 
----
-
-##  Sobre mim
-
-- 💡 **Iniciante em programação e desenvolvimento web**
-- 🔎 Aprendendo *do zero* com foco em entender conceitos e boas práticas
-- 🚀 **Motivado e curioso:** Estou sempre buscando novas tecnologias, soluções e dicas para crescer na área
+- 📍 Moro em Santa Gertrudes - SP
+- 🎓 Estudando Desenvolvimento Full Stack (HTML, CSS, JavaScript, Node.js)
+- 🏍️ Nas horas vagas, você me encontra cuidando da minha XRE 300 ou explorando novas estradas.
 
 ---
 
-## 📚 O que estou estudando
-
-- **CSS Responsivo:** Começando pelo *mobile-first* e explorando técnicas para adaptar para desktop (Grid, Flexbox, Media Queries)
-- **HTML & CSS:** Construindo bases sólidas e organizando código de forma clara
-- **Ferramentas & Produtividade:** Versionamento com Git e GitHub, editor VS Code, designs com Figma
-
----
-
-## 💻 Projetos e exercícios
-
-- Exercícios práticos e pequenos projetos para aplicar o que aprendo
-- Sempre aberto para feedbacks, sugestões e dicas que possam acelerar meu aprendizado!
-
----
-## 🚀 Próximos Passos
-
-- Aprimorar técnicas de acessibilidade web
-- Iniciar estudos em backend (Node.js) (JavaScript básico).
-- Participar de projetos open source
-
-
-## 🤝 Conexão e colaboração
-
-- Estou aqui para aprender e crescer junto com a comunidade!
-- Gosto de trocar experiências, tirar dúvidas e contribuir sempre que possível
-- Se quiser colaborar, conversar sobre tecnologia ou compartilhar dicas, será muito bem-vindo!
+### 🛠️ Minha Caixa de Ferramentas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-> **“A jornada do conhecimento começa com o primeiro passo. Estou animado para trilhar esse caminho!”**
->
-> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukinhas019)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Meus Desafios de Código (Destaques)
+* **[Dev Burger]:** Interface completa de uma hamburgueria com lógica de pedidos.
+* **[Currency Converter]:** Aplicativo de conversão de moedas em tempo real.
+* **[Jokenpô]:** O clássico jogo de pedra, papel e tesoura com uma interface moderna.
+
+📫 **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/lucas-assis-38a8b3285) | [Email](lukinhass.assis889@outlook.com)
