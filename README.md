@@ -45,5 +45,5 @@ Deseja trocar uma ideia sobre tecnologia ou sobre a vida nas estradas?
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-eduardo-de-assis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Assis" height="30" width="40" /></a>
-<a href="mailto:lukinhass.assis889@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="lukinhass.assis889" height="30" width="40" /></a>
+<a href="mailto:lukinhass.assis889@outlook.com" target="blank"></a>
 </p>
