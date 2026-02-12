@@ -5,17 +5,12 @@ Saí do setor de vendas em materiais de construção para construir soluções n
 
 - 📍 Santa Gertrudes - SP
 - 🎓 Estudante Full Stack @ DevClub
-- 🏍️ Entusiasta de motos (Honda XRE 300)
 
 ---
 
 ### 📊 Estatísticas de Desenvolvedor
 Para mostrar meu comprometimento com o código, aqui estão minhas métricas atuais:
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukinhas019&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukinhas019&layout=compact&langs_count=7&theme=dracula" />
-</p>
 
 ---
 
@@ -25,7 +20,6 @@ Para mostrar meu comprometimento com o código, aqui estão minhas métricas atu
 | :--- | :--- |
 | **Front-end** | HTML5, CSS3, JavaScript (ES6+) |
 | **Estilização** | Web Design Responsivo, Flexbox, CSS Grid |
-| **Back-end** | Node.js (Ambiente e Configuração) |
 | **Ferramentas** | Git, GitHub, VS Code |
 
 ---
@@ -50,6 +44,6 @@ O clássico Pedra, Papel e Tesoura com uma interface renovada.
 Deseja trocar uma ideia sobre tecnologia ou sobre a vida nas estradas?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-assis-38a8b3285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Assis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-eduardo-de-assis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Assis" height="30" width="40" /></a>
 <a href="mailto:lukinhass.assis889@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="lukinhass.assis889" height="30" width="40" /></a>
 </p>
